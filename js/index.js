@@ -4,3 +4,5 @@ var obj = {
         console.log("Cookies:: " + navigator.cookieEnabled);
     }
 }
+
+export obj;
